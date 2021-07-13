@@ -1,2 +1,2 @@
-From asia.gcr.io/google-containers/kube-cross:v1.13.5-1
+From k8s.gcr.io/build-image/debian-base-arm64:v2.1.3
 MAINTAINER wdm1020
