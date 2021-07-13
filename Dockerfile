@@ -1,2 +1,2 @@
-From k8s.gcr.io/build-image/debian-hyperkube-base-arm64:v1.1.3
+From k8s.gcr.io/build-image/debian-iptables-arm64:v12.1.2
 MAINTAINER wdm1020
