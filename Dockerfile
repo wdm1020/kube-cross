@@ -1,2 +1,2 @@
-From k8s.gcr.io/kube-cross:v1.13.6-1
+From asia.gcr.io/google-containers/kube-cross:v1.13.5-1
 MAINTAINER wdm1020
