@@ -1,2 +1,2 @@
-From k8s.gcr.io/build-image/debian-iptables-arm64:v12.1.2
+From k8s.gcr.io/build-image/debian-base-amd64:v2.1.3
 MAINTAINER wdm1020
