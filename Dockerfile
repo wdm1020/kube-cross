@@ -1,2 +1,2 @@
-From k8s.gcr.io/build-image/kube-cross-arm64:v1.13.5-1
+From k8s.gcr.io/build-image/kube-cross-arm64:latest
 MAINTAINER wdm1020
