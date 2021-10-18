@@ -1,2 +1,2 @@
-From k8s.gcr.io/build-image/kube-cross-arm64:latest
+From quay.io/kubernetes-ingress-controller/nginx-ingress-controller-arm64@sha256:1c12b35ae5db7699b43ad2b90a9e863cda6ab9e4863772a00d4463153f7fe46e
 MAINTAINER wdm1020
