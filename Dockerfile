@@ -1,2 +1,2 @@
-From ghcr.io/helm/tiller:v2.16.9
+From ghcr.io/k8snetworkplumbingwg/multus-cni:v3.7.1
 MAINTAINER wdm1020
