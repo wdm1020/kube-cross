@@ -1,2 +1,2 @@
-From k8s.gcr.io/defaultbackend-arm64:1.5
+From ghcr.io/k8snetworkplumbingwg/multus-cni:v3.7.1
 MAINTAINER wdm1020
