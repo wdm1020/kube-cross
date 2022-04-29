@@ -1,2 +1,2 @@
-From ghcr.io/k8snetworkplumbingwg/multus-cni:v3.7.1
+From ghcr.io/k8snetworkplumbingwg/sriov-cni:v2.6.1
 MAINTAINER wdm1020
