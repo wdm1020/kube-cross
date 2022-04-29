@@ -1,2 +1,2 @@
-From ghcr.io/k8snetworkplumbingwg/sriov-network-device-plugin:v3.3.2
+From ghcr.io/helm/tiller:v2.16.9
 MAINTAINER wdm1020
